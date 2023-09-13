@@ -1,0 +1,15 @@
+.compNav{
+    background-color: rgb(23, 138, 177);
+}
+.menu{
+    text-align: center;
+}
+#nl{
+    font-size: 40px;
+    text-decoration: none;
+    padding-left: 5%;
+    color:white
+}
+h1{
+    font-size: 50px;
+}
